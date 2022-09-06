@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: biotechinformatics/main:latest
+      - image: biotechinformatics/main:15
         name: flaskdemo
         resources: {}
 status: {}
